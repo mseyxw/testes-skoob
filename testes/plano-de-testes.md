@@ -1,4 +1,4 @@
-**Objetivo dos testes**
+**▶︎Objetivo dos testes**
 
 Verificar se as principais funcionalidades do Skoob utilizadas pelos usuários funcionam corretamente. Também verificar se os dados do perfil ficam sincronizados entre o aplicativo mobile e a versão web.
 
