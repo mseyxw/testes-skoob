@@ -29,9 +29,9 @@ Os testes foram realizados na minha conta particular do Skoob, usando o aplicati
 
 ▶︎ **Navegador, dispositivo ou sistema operacional:**
 
-Celular: Iphone 15 pro com versão do iOS 26.6.2
-Aplicativo: Skoob para iOS na versão 5.6.5
-Computador: Windows utilizando o navegador Edge na versão 157.0.4341.46
+Celular: Iphone 15 pro com versão do iOS 26.6.2 <br>
+Aplicativo: Skoob para iOS na versão 5.6.5 <br>
+Computador: Windows utilizando o navegador Edge na versão 157.0.4341.46 <br>
 
 <br>
 
