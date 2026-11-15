@@ -1,4 +1,4 @@
-**Requisitos**
+▶︎ **Requisitos**
 
 - RF01: O sistema deve permitir buscar um livro pelo título
 - RF02: O sistema deve permitir adicionar um livro a estante com um status específico (Lido, Lendo, Quero Ler, Relendo e Abandonei)
