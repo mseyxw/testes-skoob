@@ -1,4 +1,4 @@
-▶︎**Definição do Escopo**
+▶︎ **Definição do Escopo**
 
 **Aplicação:** Skoob, uma rede social voltada para leitores, na qual pode-se criar uma estante virtual para organizar os livros e interagir com outros usuários.
 
