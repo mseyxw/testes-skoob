@@ -6,18 +6,18 @@ Verificar se as principais funcionalidades do Skoob utilizadas pelos usuários f
 
 ▶︎ **Funcionalidades que foram testadas:**
 
-Busca de livros
-Estante virtual
-Resenhas
-Sincronização Web/App
+Busca de livros <br>
+Estante virtual <br>
+Resenhas <br>
+Sincronização Web/App <br>
 
 <br>
 
 ▶︎ **Funcionalidades que não foram testadas:**
 
-Feed em que os usuários interagem
-Cadastro de novos livros e autores
-Metas de leitura
+Feed em que os usuários interagem <br>
+Cadastro de novos livros e autores <br>
+Metas de leitura <br>
 
 <br>
 
@@ -37,9 +37,9 @@ Computador: Windows utilizando o navegador Edge na versão 157.0.4341.46 <br>
 
 ▶︎ **Tipos de testes que foram executados:**
 
-Testes funcionais que verificam se cada funcionalidade faz o que deveria.
-Testes negativos que verificam se o sistema se comporta bem com entradas inválidas e com valores extremos.
-Teste de sincronização que verifica se uma alteração feita no app aparece na web.
+Testes funcionais que verificam se cada funcionalidade faz o que deveria. <br>
+Testes negativos que verificam se o sistema se comporta bem com entradas inválidas e com valores extremos. <br>
+Teste de sincronização que verifica se uma alteração feita no app aparece na web.<br>
 
 <br>
 
