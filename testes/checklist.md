@@ -1,4 +1,4 @@
-**▶︎ Checklist de testes**
+▶︎ **Checklist de testes**
 
 1.[✔] Usuário consegue procuarar no campo de busca <br>
 2.[✔] Usuário consegue realizar uma através da pesquisa do título do livro <br>
