@@ -10,4 +10,4 @@
 8.[✔] Quando o usuário vai fazer uma resenha, essa resenha vazia não pode ser publicada <br>
 9.[✔] Resenha com muitos caracteres é aceita <br>
 10.[✔] Caso uma resenha seja marcada com spoiler, na publicação ela aparece tampada e com alerta	<br>
-11.[x] Foto de perfil alterada no app mobile aparece na versão web <br>
+11.[✘] Foto de perfil alterada no app mobile aparece na versão web <br>
