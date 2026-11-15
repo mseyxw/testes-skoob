@@ -8,13 +8,13 @@
 
 **O que faz parte do escopo:**
 
-Busca de livros
-Estante virtual
-Resenhas
-Sincronização dos dados do perfil entre versão mobile e web
+- Busca de livros
+- Estante virtual
+- Resenhas
+- Sincronização dos dados do perfil entre versão mobile e web
 
 **O que é fora do escopo:**
 
-Feed em que os usuários interagem
-Cadastro de novos livros e autores
-Metas de leitura
+- Feed em que os usuários interagem
+- Cadastro de novos livros e autores
+- Metas de leitura
