@@ -35,8 +35,8 @@ Computador: Windows utilizando o navegador Edge na versão 157.0.4341.46 <br>
 
 <br>
 
-▶︎ **Tipos de testes que foram executados:** <br>
-
+▶︎ **Tipos de testes que foram executados:** 
+<br>
 Testes funcionais que verificam se cada funcionalidade faz o que deveria. <br>
 Testes negativos que verificam se o sistema se comporta bem com entradas inválidas e com valores extremos. <br>
 Teste de sincronização que verifica se uma alteração feita no app aparece na web.<br>
