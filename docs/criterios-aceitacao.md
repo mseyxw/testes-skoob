@@ -1,4 +1,4 @@
-▶︎**Critérios de aceitação**
+▶︎ **Critérios de aceitação**
 
 <br>
 
